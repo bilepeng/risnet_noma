@@ -11,4 +11,7 @@ Run `train_noma.py` with the following arguments to train the model:
 - `ris_shape`: RIS shape, default: 32 x 32.
 - `lr`: learning rate, default: 1e-5.
 
+Download data from https://drive.google.com/file/d/1Vk1jgQY-wYwibYdaUbz5Az-nWIYCPSYY/view?usp=sharing
+and put it in the folder `data`.
+
 Run `test.py` to test the saved model on the validation data set.
